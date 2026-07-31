@@ -36,7 +36,7 @@ The current Power BI report contains three pages:
 
  
 
----
+
 
  
 
@@ -70,7 +70,7 @@ The dashboard was developed to answer the following business questions:
 
  
 
----
+
 
  
 
@@ -98,7 +98,7 @@ The dashboard was developed to answer the following business questions:
 
  
 
----
+
 
  
 
@@ -146,7 +146,7 @@ Main visuals include:
 
  
 
----
+
 
  
 
@@ -190,7 +190,7 @@ Main visuals include:
 
  
 
----
+
 
  
 
@@ -240,7 +240,7 @@ Main features include:
 
  
 
----
+
 
  
 
@@ -266,7 +266,7 @@ The report uses a simple star-schema-style model with:
 
  
 
----
+
 
  
 
@@ -296,7 +296,7 @@ The source dataset contains emergency-room visit records covering approximately:
 
  
 
----
+
 
  
 
@@ -344,7 +344,7 @@ The main transformation steps included:
 
  
 
----
+
 
  
 
@@ -504,7 +504,7 @@ DIVIDE(
 
  
 
----
+
 
  
 
@@ -536,7 +536,7 @@ Based on the full reporting period:
 
  
 
----
+
 
  
 
@@ -556,7 +556,7 @@ Based on the full reporting period:
 
  
 
----
+
 
  
 
@@ -575,7 +575,7 @@ Based on the full reporting period:
 * Microsoft PowerPoint
  
 
----
+
 
  
 
